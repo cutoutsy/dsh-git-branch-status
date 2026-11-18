@@ -1,0 +1,3 @@
+- insert:
+    - id: git-branch-status
+      name: '@local/git-branch-status'

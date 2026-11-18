@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Git branch status",
+    "description": "Shows the Git branch of the session's working directory below the composer."
+  }
+}
